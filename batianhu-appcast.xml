@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><!-- sparkle-sign-warning:
+IMPORTANT: This file was signed by Sparkle. Any modifications to this file requires re-signing this file with generate_appcast or sign_update! The signed signature will be embedded at the end of this file.
+--><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>霸天虎</title><item><title>2.3.1</title><pubDate>Mon, 09 Nov 2026 11:04:35 +0000</pubDate><sparkle:version>24</sparkle:version><sparkle:shortVersionString>2.3.1</sparkle:shortVersionString><sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion><enclosure url="https://github.com/culuka/desktop-app-releases/releases/download/macos-2026-11-09/batianhu-2.3.1-macOS.zip" length="1496379" type="application/octet-stream" sparkle:edSignature="E07wDXelJTTDQal9btDHdFPbjwGAHtAXLR0i6xfG0dDsiz7SMkYTp/j/Ch8NRs5Wq+CcG4z9/W0wTB641HnsDg=="></enclosure></item></channel></rss><!-- sparkle-signatures:
+edSignature: +cFDK+mv46chr0aTH7srPv8aIfCd+2JHAmJzNydSnkf89zuFwaTPCDV85uq3f9TrMFViZd42LyrUWGyKNNe7Aw==
+length: 970
+-->
